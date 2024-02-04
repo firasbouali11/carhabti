@@ -1,4 +1,4 @@
-# Carhabti
+# Carhabti (Shazam for Cars)
 ## Overview
 Carhabti is a mobile application that utilizes image recognition technology to identify car brands by analyzing pictures. Additionally, it incorporates artificial intelligence (AI) to predict the prices of recognized cars. This app is designed to provide users with instant information about cars based on images, making it a convenient tool for car enthusiasts, buyers, and sellers.
 
